@@ -17,10 +17,10 @@
                     <img
                       alt="YRHacks Logo"
                       className="inline w-4 h-4 mr-1"
-                      src="/images/design-mode/logo.3aecaa9f.svg"
+                      src="yrhacks-logo.png"
                     />
                     <a
-                      href="https://yrhacks.ca/"
+                      href=""
                       className="underline hover:text-stone-100 transition-colors inline-block transform transition-transform duration-200 hover:scale-110"
                       target="_blank"
                       rel="noopener noreferrer"
