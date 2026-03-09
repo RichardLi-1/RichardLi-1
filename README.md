@@ -16,7 +16,7 @@
                     organized{" "}
                     <img
                       alt="YRHacks Logo"
-                      className="inline w-4 h-4 mr-1"
+                      style="max-width:5px"
                       src="yrhacks-logo.png"
                     />
                     <a
