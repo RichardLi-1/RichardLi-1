@@ -37,7 +37,7 @@
 <p>I'd love to connect. Feel free to reach out!</p>
 
 <div align="center">
-   <a href="https://www.richardli.dev/" target="_blank" style="cursor: pointer;">My Website!</a>
+   <a href="https://www.richardli.dev/?g" target="_blank" style="cursor: pointer;">My Website!</a>
   <span> - </span>
   <a href="https://www.linkedin.com/in/richardli0/" target="_blank" style="cursor: pointer;">LinkedIn</a>
   <span> - </span>
