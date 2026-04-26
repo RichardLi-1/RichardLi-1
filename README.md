@@ -38,7 +38,7 @@
 <ul>
   <li><a href="https://github.com/evanzyang91/transit-planner" target="_blank">Transit Planner</a>, transit planning sandbox</li>
   <li><a href="https://github.com/fiof25/father-figure-htn" target="_blank">Father Figure</a></li>
-  <li><a href="[https://github.com/fiof25/father-figure-htn](https://github.com/MarkvilleDev/Boink)" target="_blank">Boink</a></li>
+  <li><a href="https://github.com/MarkvilleDev/Boink" target="_blank">Boink</a></li>
 </ul>
 
 
