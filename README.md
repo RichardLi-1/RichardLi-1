@@ -3,9 +3,8 @@
 <p>about me:</p>
 <ul>
   <li>systems design engineering @ <a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></li>
-  <li>software engineering intern @ <a href="https://safuture.net/" target="_blank">SaFuture Inc</a></li>
+  <li>prev software engineering intern @ <a href="https://safuture.net/" target="_blank">SaFuture Inc</a></li>
   <li>organizing <a href="[https://vip.uwaterloo.ca/yuhao-chen-2/](https://hackthenorth.com/)" target="_blank">Hack The North, Canada's largest hackathon</a></li>
-  <li>interested in AI and PM</li>
   <li>full-time public transit enthusiast</li>
   <li>open to chatting about fall 2026 internship opportunities</li>
 </ul>
