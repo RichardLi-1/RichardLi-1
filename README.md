@@ -13,7 +13,6 @@
   <li>software engineering intern @ <a href="https://safuture.net/" target="_blank">SaFuture Inc</a></li>
   <li>
                   <span>
-                      
                     organized
                     <img
                       alt="YRHacks Logo"
