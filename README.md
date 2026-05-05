@@ -39,7 +39,7 @@
   <li><a href="https://github.com/fiof25/father-figure-htn" target="_blank">Father Figure, published Chrome Extension</a></li>
   <li><a href="https://github.com/MarkvilleDev/Boink" target="_blank">Boink, 2D physics game published on App Store</a></li>
   <li>building <a href="https://github.com/RichardLi-1/mcbrien" target="_blank">McBrien</a>, RAG and agents for transit planning</li>
-  <li>also currently working on <a href="https://github.com/RichardLi-1/cbtc" target="_blank">building the TTC's Communications Based Train Control</a>from first principles</li>
+  <li>also currently working on <a href="https://github.com/RichardLi-1/cbtc" target="_blank">building the TTC's Communications Based Train Control</a> signalling system from first principles</li>
 </ul>
 
 
