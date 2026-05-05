@@ -36,8 +36,8 @@
 <p>projects</p>
 <ul>
   <li><a href="https://github.com/evanzyang91/transit-planner" target="_blank">Transit Planner</a>, transit planning sandbox</li>
-  <li><a href="https://github.com/fiof25/father-figure-htn" target="_blank">Father Figure, published Chrome Extension</a></li>
-  <li><a href="https://github.com/MarkvilleDev/Boink" target="_blank">Boink, 2D physics game published on App Store</a></li>
+  <li><a href="https://github.com/fiof25/father-figure-htn" target="_blank">Father Figure</a>, published <a href="https://chromewebstore.google.com/detail/father-figure/dmkminnihibbmkjahphedaldbldpabnl" target="_blank"> Chrome Extension</a></li>
+  <li><a href="https://github.com/MarkvilleDev/Boink" target="_blank">Boink</a>, 2D physics game published on <a href="https://apps.apple.com/ca/app/bo-nk/id1570376501" target="_blank">App Store</a></li>
   <li>building <a href="https://github.com/RichardLi-1/mcbrien" target="_blank">McBrien</a>, RAG and agents for transit planning</li>
     <li><a href="https://www.ffcareers.app/" target="_blank">FF Careers</a>, a to do list that career coaches you</li>
   <li>also currently working on <a href="https://github.com/RichardLi-1/cbtc" target="_blank">building the TTC's Communications Based Train Control</a> signalling system from first principles</li>
