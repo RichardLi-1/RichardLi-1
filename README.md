@@ -12,26 +12,6 @@
 <ul>
   <li>software developer @ <a href="https://safuture.net/" target="_blank">SaFuture Inc</a>, building AI govtech</li>
   <li>software engineer @ the Career Education Council, building for NPOs</li>
-  <li>
-                  <span>
-                    organized
-                    <img
-                      alt="YRHacks Logo"
-                      src="yrhacks-logo.png"
-                      width="12"
-                      height="12"
-                    />
-                    <a
-                      href=""
-                      className="underline hover:text-stone-100 transition-colors inline-block transform transition-transform duration-200 hover:scale-110"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      YRHacks
-                    </a>
-                    , Canada's largest high school hackathon
-                  </span>
-                </li>
 </ul>
 
 <p>projects</p>
