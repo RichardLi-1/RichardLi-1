@@ -10,7 +10,8 @@
 
 <p>previously:</p>
 <ul>
-  <li>software engineering intern @ <a href="https://safuture.net/" target="_blank">SaFuture Inc</a></li>
+  <li>software developer @ <a href="https://safuture.net/" target="_blank">SaFuture Inc</a>, building AI govtech</li>
+  <li>software engineer @ the Career Education Council, building for NPOs</li>
   <li>
                   <span>
                     organized
