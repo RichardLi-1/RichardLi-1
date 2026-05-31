@@ -2,6 +2,7 @@
 
 <p>about me:</p>
 <ul>
+  <li>full-stack developer</a></li>
   <li>systems design engineering @ <a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></li>
   <li>organizing <a href="[https://vip.uwaterloo.ca/yuhao-chen-2/](https://hackthenorth.com/)" target="_blank">Hack The North, Canada's largest hackathon</a></li>
   <li>full-time public transit enthusiast</li>
