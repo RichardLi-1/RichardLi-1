@@ -1,9 +1,11 @@
 <h1 align="center">hey 👋 I'm Richard.</h1>
+<p align="center">
+  <em><strong>systems design engineering</strong> @ <strong><a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></strong></em><br>
+</p>
 
 <p>about me:</p>
 <ul>
   <li>full-stack developer</a></li>
-  <li>systems design engineering @ <a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></li>
   <li>organizing <a href="[https://vip.uwaterloo.ca/yuhao-chen-2/](https://hackthenorth.com/)" target="_blank">Hack The North, Canada's largest hackathon</a></li>
   <li>full-time public transit enthusiast</li>
   <li>open to chatting about fall 2026 internship opportunities</li>
