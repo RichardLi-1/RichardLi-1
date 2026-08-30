@@ -12,7 +12,7 @@
   <li>open to chatting about fall 2026 internship opportunities</li>
 </ul>
 
-<p>projects</p>
+<p>projects:</p>
 <ul>
   <li><a href="https://github.com/evanzyang91/transit-planner" target="_blank">Transit Planner</a>, transit planning sandbox</li>
   <li><a href="https://github.com/fiof25/father-figure-htn" target="_blank">Father Figure</a>, published <a href="https://chromewebstore.google.com/detail/father-figure/dmkminnihibbmkjahphedaldbldpabnl" target="_blank"> Chrome Extension</a></li>
