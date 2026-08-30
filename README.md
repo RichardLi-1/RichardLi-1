@@ -5,21 +5,11 @@
 
 <p>about me:</p>
 <ul>
-  <li>full-stack developer</a></li>
+  <li>developer</a></li>
+  <li>full stack developer intern @ AMD</li>
   <li>organizing <a href="[https://vip.uwaterloo.ca/yuhao-chen-2/](https://hackthenorth.com/)" target="_blank">Hack The North, Canada's largest hackathon</a></li>
   <li>full-time public transit enthusiast</li>
   <li>open to chatting about fall 2026 internship opportunities</li>
-</ul>
-
-<p>currently:</p>
-<ul>
-  <li>full stack developer intern @ AMD</li>
-</ul>
-
-<p>previously:</p>
-<ul>
-  <li>software developer @ <a href="https://safuture.net/" target="_blank">SaFuture Inc</a>, building AI govtech</li>
-  <li>software engineer @ the Career Education Council, building for NPOs</li>
 </ul>
 
 <p>projects</p>
