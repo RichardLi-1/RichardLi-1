@@ -11,6 +11,11 @@
   <li>open to chatting about fall 2026 internship opportunities</li>
 </ul>
 
+<p>currently:</p>
+<ul>
+  <li>full stack developer intern @ AMD</li>
+</ul>
+
 <p>previously:</p>
 <ul>
   <li>software developer @ <a href="https://safuture.net/" target="_blank">SaFuture Inc</a>, building AI govtech</li>
