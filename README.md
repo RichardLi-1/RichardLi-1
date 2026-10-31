@@ -6,7 +6,7 @@
 <p>about me:</p>
 <ul>
   <li>full stack developer intern @ AMD</li>
-  <li>organizing <a href="[https://vip.uwaterloo.ca/yuhao-chen-2/](https://hackthenorth.com/)" target="_blank">Hack The North (biggest 🇨🇦 hackathon</a></li>
+  <li>organizing <a href="[https://vip.uwaterloo.ca/yuhao-chen-2/](https://hackthenorth.com/)" target="_blank">Hack The North (biggest 🇨🇦 hackathon)</a></li>
   <li>full-time public transit enthusiast</li>
   <li>open to chatting about summer 2027 internship opportunities</li>
 </ul>
