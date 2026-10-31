@@ -21,7 +21,7 @@
 </ul>
 
 
-<p>I'd love to connect. Feel free to reach out!</p>
+<p>I'd love to connect. Feel free to reach out! Especially if you have a project idea.</p>
 
 <div align="center">
    <a href="https://www.richardli.dev/?g" target="_blank" style="cursor: pointer;">My Website!</a>
